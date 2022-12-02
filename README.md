@@ -5,6 +5,9 @@ The matlab codes for sdLST and some baselines.
 
 matlab version: R2020a
 
+You can run demo.m to test sdLST and stCCA, but data inlcude only one source subject and one target subject, so the results are not representative. 
+
+
 sCCA: Z. Lin, C. Zhang, W. Wu, and X. Gao, “Frequency recognition based on canonical correlation analysis for SSVEP-based BCIs,” IEEE Trans. on Biomedical Engineering, vol. 53, no. 12, pp. 2610–2614, 2006.
 
 tt-CCA: P. Yuan, X. Chen, Y. Wang, X. Gao, and S. Gao, “Enhancing performances of SSVEP-based brain–computer interfaces via exploiting intersubject information,” Journal of Neural Engineering, vol. 12, no. 4, p. 046006, 2015.
