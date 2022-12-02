@@ -1,8 +1,9 @@
 # sd-LST
 Small Data Least-Squares Transformation (sd-LST) for Fast Calibration of SSVEP-based BCIs
 
+The matlab codes for sdLST and some baselines.
 
-The matlab codes of sdLST and some baselines.
+matlab version: R2020a
 
 sCCA: Z. Lin, C. Zhang, W. Wu, and X. Gao, “Frequency recognition based on canonical correlation analysis for SSVEP-based BCIs,” IEEE Trans. on Biomedical Engineering, vol. 53, no. 12, pp. 2610–2614, 2006.
 
