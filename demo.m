@@ -1,4 +1,4 @@
-%% a test demo for sdLST, data have been preprocessed, only one source subject and one target subject
+%% a test demo for sdLST, data have been preprocessed, only one source subject and one target subject, so the results are not representative. 
 rng(0);
 fs = 256;
 sub_num = 2;
